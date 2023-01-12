@@ -1,9 +1,9 @@
 {
   "manifest_version": 2,
-  "name": "Your Chrome Extension Name",
-  "version": "0.1",
-  "author": "First Last",
-  "description": "A description about your Chrome Extension...",
+  "name": "Dad Joke News",
+  "version": "1.0",
+  "author": "Meg Francois Alex",
+  "description": "Change your boring old news titles into a dad joke",
   "permissions": [
     ""
   ],
@@ -23,7 +23,7 @@
     ]
   },
   "browser_action": {
-    "default_icon": "logo.png",
+    "default_icon": "dad.png",
     "default_popup": "index.html",
     "default_title": "A tooltip popup description when you hover over the Chrome Extension icon."
   }
